@@ -154,7 +154,7 @@ export default function Contact() {
           </div>
 
           {/* ── Right: Form ── */}
-          <div className="lg:col-span-3 reveal-right delay-200">
+          <div className="lg:col-span-3 reveal-left delay-200">
             <div className="glow-border bg-charcoal/40 border border-white/5 p-8 lg:p-10">
               <h3
                 className="text-white font-semibold mb-2"
