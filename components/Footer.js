@@ -57,7 +57,7 @@ export default function Footer() {
                 ['GitHub',    'https://github.com/NJWILD',                     'NJWILD'],
                 ['LinkedIn',  'https://linkedin.com/in/joshua-njoku-9524b9369', 'joshua-njoku'],
                 ['Email',     'mailto:njokujoshua571@gmail.com',                'njokujoshua571@gmail.com'],
-                ['Portfolio', 'https://nj-portfolio-omega.vercel.app',          'nj-portfolio-omega.vercel.app'],
+                ['Portfolio', 'https://joshuanjoku.vercel.app/',          'joshuanjoku.vercel.app'],
               ].map(([label, href, text]) => (
                 <a
                   key={label}
