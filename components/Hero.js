@@ -4,10 +4,10 @@ import Image from "next/image";
 
 const roles = [
   "Frontend Developer",
-  "React Specialist",
   "UI Craftsman",
   "Fullstack Innovator",
-  "Firebase Architect",
+  "UI/UX Designer",
+  "WordPress Developer"
 ];
 
 const socialLinks = [
@@ -232,7 +232,7 @@ export default function Hero() {
                 Let's Connect
               </a>
               <a
-                href="/Njoku_Joshua_Resume.pdf"
+                href="/NJOKU_JOSHUA_UCHENNA_FlowCV_Resume_2026-04-10.pdf"
                 download
                 className="flex items-center gap-2 text-white/50 hover:text-gold transition-colors text-sm"
                 style={{
