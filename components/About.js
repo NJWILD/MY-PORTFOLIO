@@ -120,7 +120,7 @@ export default function About() {
           </div>
 
           {/* ── Right: Stats ── */}
-          <div className="grid grid-cols-2 gap-4 reveal-right delay-200">
+          <div className="grid grid-cols-2 gap-4 reveal-left delay-200">
             {stats.map((s, i) => (
               <div
                 key={i}
