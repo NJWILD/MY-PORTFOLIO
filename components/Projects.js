@@ -53,7 +53,7 @@ const projects = [
     tagColor: 'blue',
     icon:     '💳',
     featured: false,
-    screenshot: '/images/Coinpay.png',
+    screenshot: '/images/CoinPay.png',
     color:    '#3b82f6',
     links:    { live: 'https://nj-coinpay.vercel.app/', github: '#' },
     metrics:  ['Live Charts', 'Transactions', 'Portfolio View', 'Dark Mode'],
