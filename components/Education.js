@@ -72,12 +72,12 @@ export default function Education() {
                     Expected Graduation: 2029 · Owerri, Imo State, Nigeria
                   </div>
                   <p className="text-white/45 text-sm leading-relaxed mb-5" style={{ fontFamily: 'var(--font-syne)' }}>
-                    Pursuing a degree in Computer Science & Information Technology while simultaneously
+                    Pursuing a degree in Software Engineering while simultaneously
                     maintaining an active professional career — demonstrating exceptional time management
                     and dedication to both academic and industry excellence.
                   </p>
                   <div className="flex flex-wrap gap-2">
-                    {['Computer Science', 'Information Technology', 'Problem-Solving with Data', 'Algorithms'].map(c => (
+                    {['Software Engineering', 'Information Technology', 'Problem-Solving with Data', 'Web Development'].map(c => (
                       <span
                         key={c}
                         className="px-3 py-1 text-xs bg-white/4 border border-white/8 text-white/40"
