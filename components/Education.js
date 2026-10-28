@@ -24,11 +24,11 @@ const certs = [
   },
   {
     title:    'Next.js & TypeScript',
-    platform: 'Currently Learning · Active',
-    icon:     '◆',
-    desc:     'Currently expanding into Next.js App Router, Server Components, TypeScript type systems, and fullstack development patterns.',
+    platform: 'Self-directed Learning',
+    icon:     '⬡',
+    desc:     'Expanding into Next.js App Router, Server Components, TypeScript type systems, and fullstack development patterns.',
     skills:   ['Next.js', 'TypeScript', 'App Router', 'SSR/SSG'],
-    active:   true,
+    active:   false,
   },
 ]
 

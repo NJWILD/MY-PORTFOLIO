@@ -6,7 +6,7 @@ const skillGroups = [
     category: 'Frontend Core',
     icon: '⬡',
     skills: [
-      { name: 'React.js',        level: 90, years: '3+ yrs' },
+      { name: 'Next.js',        level: 90, years: '3+ yrs' },
       { name: 'Tailwind CSS',    level: 92, years: '3+ yrs' },
       { name: 'JavaScript ES6+', level: 88, years: '4+ yrs' },
       { name: 'HTML5 & CSS3',    level: 95, years: '4+ yrs' },
@@ -26,9 +26,8 @@ const skillGroups = [
     category: 'Learning Now',
     icon: '◉',
     skills: [
-      { name: 'Next.js',     level: 55, years: 'Active' },
-      { name: 'TypeScript',  level: 45, years: 'Active' },
-      { name: 'Node.js',     level: 35, years: 'Exploring' },
+      { name: 'Node.js', level: 35, years: 'Exploring' },
+      { name: 'Python', level: 75, years: 'Exploring' },
       { name: 'Chart.js',    level: 70, years: '1+ yr' },
     ],
   },
