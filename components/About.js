@@ -27,7 +27,7 @@ function Counter({ end, suffix = '', duration = 2000 }) {
 }
 
 const stats = [
-  { value: 4,  suffix: '+', label: 'Years Experience',  desc: 'Self-taught & industry proven' },
+  { value: 3,  suffix: '+', label: 'Years Experience',  desc: 'Self-taught & industry proven' },
   { value: 10, suffix: '+', label: 'Projects Delivered', desc: 'Client & personal work' },
   { value: 3,  suffix: '',      label: 'Active Roles',       desc: 'Dev, Freelancer, Co-Founder' },
   { value: 100,suffix: '%', label: 'Remote Ready',       desc: 'Open globally' },
@@ -70,9 +70,8 @@ export default function About() {
                 responsive, production-grade web applications that users love.
               </p>
               <p className="text-white/55 leading-relaxed" style={{ fontFamily: 'var(--font-syne)', fontSize: '0.97rem' }}>
-                By day I'm a Frontend Developer at{' '}
-                <span className="text-gold">Hyperbird Technologies</span>, collaborating with backend teams
-                and integrating RESTful APIs to deliver polished user experiences. By night I'm a freelancer,
+               I love collaborating with backend teams
+                and integrating RESTful APIs to deliver polished user experiences. I am also a freelancer,
                 startup co-founder, and relentless learner expanding into{' '}
                 <span className="text-gold">Next.js</span> and{' '}
                 <span className="text-gold">TypeScript</span>.

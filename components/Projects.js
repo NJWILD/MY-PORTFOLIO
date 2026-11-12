@@ -13,7 +13,7 @@ const projects = [
     featured: true,
     screenshot: '/images/Apex.png',
     color:    '#e5a825',
-    links:    { live: '#', github: '#' },
+    links:    { live: 'https://apex-webb-seven.vercel.app/', github: '#' },
     metrics:  ['Full lifecycle', 'Firebase Auth', 'Cart & Checkout', 'Deployed'],
   },
   {
@@ -27,7 +27,7 @@ const projects = [
     featured: true,
     screenshot: '/images/JOVO2.png',
     color:    '#22c55e',
-    links:    { live: '#', github: '#' },
+    links:    { live: 'https://dev-store-jovomart.onrender.com/', github: '#' },
     metrics:  ['Student Vendors', 'Real-time DB', 'Auth System', 'MVP Live'],
   },
   {

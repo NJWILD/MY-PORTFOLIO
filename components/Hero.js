@@ -194,11 +194,10 @@ export default function Hero() {
               }}
             >
               Self-taught developer crafting pixel-perfect, blazing-fast web
-              experiences. 4+ years building with{" "}
+              experiences. 3+ years building with{" "}
               <span className="text-gold/80">React</span>,{" "}
               <span className="text-gold/80">Tailwind CSS</span> &{" "}
-              <span className="text-gold/80">Firebase</span>. Currently{" "}
-              <span className="text-white/70">@ Hyperbird Technologies</span> &{" "}
+              <span className="text-gold/80">Next.js</span>. Currently{" "}
               Co-Founding a student e-commerce platform at FUTO.
             </p>
 
@@ -338,7 +337,7 @@ export default function Hero() {
                   className="text-gold text-xl font-bold"
                   style={{ fontFamily: "var(--font-cormorant)" }}
                 >
-                  4+
+                  3+
                 </div>
                 <div
                   className="text-white/50 text-xs"

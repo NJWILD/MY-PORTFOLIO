@@ -2,19 +2,19 @@
 
 const experiences = [
   {
-    role:     'Frontend Developer',
-    company:  'Hyperbird Technologies',
-    period:   'Aug 2025 — Present',
-    type:     'Full-time · Remote/On-site',
-    tag:      'Current',
-    color:    'gold',
+    role:     'Freelance Frontend Developer',
+    company:  'Self-Employed',
+    period:   'Jan 2023 — Present',
+    type:     'Freelance · Remote',
+    tag:      '3+ yrs',
+    color:    'white',
     bullets: [
-      'Develop and maintain responsive frontend components for client web applications using React and Tailwind CSS.',
-      'Collaborate with backend teams to integrate RESTful APIs, utilizing Postman for rigorous endpoint testing and validation.',
-      'Implement version control best practices using Git and GitHub, ensuring clean and collaborative codebases across the team.',
-      'Optimize web pages for maximum speed and cross-browser compatibility, consistently delivering high performance scores.',
+      'Secured and delivered fully functional e-commerce websites for paying clients, managing the entire project lifecycle — from requirements gathering to deployment.',
+      'Built and deployed multiple high-fidelity personal and client projects including a Hotel Booking UI, NFT Gallery, Sports Analytics Dashboard, CoinPay Fintech Dashboard, and Fashion Lookbook.',
+      'Managed client communication, expectations, and revisions — building a reputation for reliable, pixel-perfect delivery.',
+      'Continuously expanded skill set through self-directed learning while delivering real-world value for clients.',
     ],
-    stack: ['React', 'Tailwind CSS', 'Git', 'Postman', 'REST APIs'],
+    stack: ['React', 'Tailwind CSS', 'JavaScript', 'Firebase', 'Chart.js', 'CSS Grid'],
   },
   {
     role:     'Co-Founder & Lead Frontend Developer',
@@ -31,21 +31,7 @@ const experiences = [
     ],
     stack: ['React', 'Tailwind CSS', 'Firebase', 'Firestore', 'Firebase Auth'],
   },
-  {
-    role:     'Freelance Frontend Developer',
-    company:  'Self-Employed',
-    period:   'Jan 2023 — Present',
-    type:     'Freelance · Remote',
-    tag:      '3+ yrs',
-    color:    'white',
-    bullets: [
-      'Secured and delivered fully functional e-commerce websites for paying clients, managing the entire project lifecycle — from requirements gathering to deployment.',
-      'Built and deployed multiple high-fidelity personal and client projects including a Hotel Booking UI, NFT Gallery, Sports Analytics Dashboard, CoinPay Fintech Dashboard, and Fashion Lookbook.',
-      'Managed client communication, expectations, and revisions — building a reputation for reliable, pixel-perfect delivery.',
-      'Continuously expanded skill set through self-directed learning while delivering real-world value for clients.',
-    ],
-    stack: ['React', 'Tailwind CSS', 'JavaScript', 'Firebase', 'Chart.js', 'CSS Grid'],
-  },
+  
 ]
 
 export default function Experience() {
@@ -66,7 +52,7 @@ export default function Experience() {
               <span className="gold-clip font-semibold" style={{ fontSize: 'clamp(2.5rem, 5vw, 4.5rem)' }}>Experience</span>
             </h2>
             <p className="text-white/40 max-w-xs sm:text-right reveal delay-200" style={{ fontFamily: 'var(--font-syne)', fontSize: '0.9rem' }}>
-              4+ years of hands-on professional development across multiple roles.
+              3+ years of hands-on professional development across multiple roles.
             </p>
           </div>
         </div>
