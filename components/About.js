@@ -27,7 +27,7 @@ function Counter({ end, suffix = '', duration = 2000 }) {
 }
 
 const stats = [
-  { value: 3,  suffix: '+', label: 'Years Experience',  desc: 'Self-taught & industry proven' },
+  { value: 5,  suffix: '+', label: 'Years Experience',  desc: 'Self-taught & industry proven' },
   { value: 10, suffix: '+', label: 'Projects Delivered', desc: 'Client & personal work' },
   { value: 3,  suffix: '',      label: 'Active Roles',       desc: 'Dev, Freelancer, Co-Founder' },
   { value: 100,suffix: '%', label: 'Remote Ready',       desc: 'Open globally' },
@@ -66,7 +66,7 @@ export default function About() {
             <div className="space-y-5 reveal delay-200">
               <p className="text-white/55 leading-relaxed" style={{ fontFamily: 'var(--font-syne)', fontSize: '0.97rem' }}>
                 I'm <span className="text-white font-semibold">Njoku Joshua Uchenna</span>, a self-taught
-                Frontend Developer from Owerri, Nigeria, with over 4 years of hands-on experience building
+                Frontend Developer from Owerri, Nigeria, with over 5 years of hands-on experience building
                 responsive, production-grade web applications that users love.
               </p>
               <p className="text-white/55 leading-relaxed" style={{ fontFamily: 'var(--font-syne)', fontSize: '0.97rem' }}>

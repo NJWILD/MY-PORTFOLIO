@@ -4,9 +4,9 @@ const experiences = [
   {
     role:     'Freelance Frontend Developer',
     company:  'Self-Employed',
-    period:   'Jan 2023 — Present',
+    period:   'Jan 2020 — Present',
     type:     'Freelance · Remote',
-    tag:      '3+ yrs',
+    tag:      '5+ yrs',
     color:    'white',
     bullets: [
       'Secured and delivered fully functional e-commerce websites for paying clients, managing the entire project lifecycle — from requirements gathering to deployment.',
@@ -52,7 +52,7 @@ export default function Experience() {
               <span className="gold-clip font-semibold" style={{ fontSize: 'clamp(2.5rem, 5vw, 4.5rem)' }}>Experience</span>
             </h2>
             <p className="text-white/40 max-w-xs sm:text-right reveal delay-200" style={{ fontFamily: 'var(--font-syne)', fontSize: '0.9rem' }}>
-              3+ years of hands-on professional development across multiple roles.
+              5+ years of hands-on professional development across multiple roles.
             </p>
           </div>
         </div>

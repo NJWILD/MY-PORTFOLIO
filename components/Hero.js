@@ -194,7 +194,7 @@ export default function Hero() {
               }}
             >
               Self-taught developer crafting pixel-perfect, blazing-fast web
-              experiences. 3+ years building with{" "}
+              experiences. 5+ years building with{" "}
               <span className="text-gold/80">React</span>,{" "}
               <span className="text-gold/80">Tailwind CSS</span> &{" "}
               <span className="text-gold/80">Next.js</span>. Currently{" "}
@@ -337,7 +337,7 @@ export default function Hero() {
                   className="text-gold text-xl font-bold"
                   style={{ fontFamily: "var(--font-cormorant)" }}
                 >
-                  3+
+                  5+
                 </div>
                 <div
                   className="text-white/50 text-xs"
