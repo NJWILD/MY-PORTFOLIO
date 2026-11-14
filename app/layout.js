@@ -15,12 +15,12 @@ export const metadata = {
     'Web Developer FUTO',
     'Hyperbird Technologies',
   ],
-  authors: [{ name: 'Njoku Joshua Uchenna', url: 'https://nj-portfolio-omega.vercel.app' }],
+  authors: [{ name: 'Njoku Joshua Uchenna', url: 'https://joshuanjoku.vercel.app/' }],
   creator: 'Njoku Joshua Uchenna',
   openGraph: {
     type: 'website',
     locale: 'en_NG',
-    url: 'https://nj-portfolio-omega.vercel.app',
+    url: 'https://joshuanjoku.vercel.app/',
     siteName: 'Njoku Joshua | Frontend Developer',
     title: 'Njoku Joshua Uchenna | Frontend Developer',
     description: 'Building pixel-perfect, blazing-fast web experiences. 4+ years crafting responsive UIs with React, Tailwind CSS & Firebase.',
@@ -54,7 +54,7 @@ export const metadata = {
     icon: '/favicon.ico',
     apple: '/apple-touch-icon.png',
   },
-  metadataBase: new URL('https://nj-portfolio-omega.vercel.app'),
+  metadataBase: new URL('https://joshuanjoku.vercel.app/'),
 }
 
 export default function RootLayout({ children }) {
@@ -69,7 +69,7 @@ export default function RootLayout({ children }) {
         />
         <meta name="theme-color" content="#e5a825" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="canonical" href="https://nj-portfolio-omega.vercel.app" />
+        <link rel="canonical" href="https://joshuanjoku.vercel.app/" />
 
         {/* JSON-LD Structured Data */}
         <script
@@ -80,7 +80,7 @@ export default function RootLayout({ children }) {
               '@type': 'Person',
               name: 'Njoku Joshua Uchenna',
               jobTitle: 'Frontend Developer',
-              url: 'https://nj-portfolio-omega.vercel.app',
+              url: 'https://joshuanjoku.vercel.app/',
               email: 'njokujoshua571@gmail.com',
               telephone: '08056364802',
               address: {
